@@ -1,0 +1,5 @@
+{
+  "name": "Health Score Fragebogen",
+  "description": "Ein interaktiver Fragebogen zur Erfassung eines Gesundheitsscores für ein EMS-Studio. Erfasst allgemeine Gesundheitsdaten sowie muskulären Zustand und Haltung zur Ermittlung eines Gesamtscores von bis zu 100 Punkten.",
+  "requestFramePermissions": []
+}
